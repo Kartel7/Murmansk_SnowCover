@@ -1,5 +1,5 @@
 # Murmansk_SnowCover
-Code used to process and visualize AISORI climate data for the Murmansk region
+Code used to process and visualize AISORI climate data for the Murmansk region <br>
 Код, реализованный для обработки и визуализации климатических данных АИСОРИ [http://aisori-m.meteo.ru/]
 <br>
 # Данные включают:
