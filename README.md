@@ -1,6 +1,6 @@
 # Murmansk_SnowCover
-Code used to process and visualize AISORI climate data for the Murmansk region <br>
-Код, реализованный для обработки и визуализации климатических данных АИСОРИ [http://aisori-m.meteo.ru/]
+Code used to process and visualize AISORI climate data [http://aisori-m.meteo.ru/] for the Murmansk region <br>
+Код, реализованный для обработки и визуализации климатических данных АИСОРИ [http://aisori-m.meteo.ru/] на Мурманскую область
 <br>
 # Данные включают:
 - Snow_height_&_days_with_snow_processing_visualization: получение значений среднемесячной многолетней высоты снежного покрова (для графиков) и количества дней со снежным покровом (для карты) по станциям Мурманской области
